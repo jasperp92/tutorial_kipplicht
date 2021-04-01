@@ -8,6 +8,7 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "kipplicht.md",
         "README.md"
     ],
     "testFiles": [
